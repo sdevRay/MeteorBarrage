@@ -6,6 +6,7 @@ import com.badlogic.gdx.Input;
 import com.badlogic.gdx.InputMultiplexer;
 import com.badlogic.gdx.InputProcessor;
 import com.badlogic.gdx.Screen;
+import com.badlogic.gdx.audio.Music;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
@@ -68,6 +69,8 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
     private Vector3 lastTouch;
     private Vector3 newTouch;
 
+    private Music music_level;
+
     public MeteorBarrageLevel(Game g) {
         this.game = g;
         create();
@@ -81,6 +84,11 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
 
         mainStage = new Stage(viewport);
         uiStage = new Stage(viewport);
+
+        music_level = Gdx.audio.newMusic(Gdx.files.internal("backgroundmusic.mp3"));
+        music_level.setVolume(.20f);
+        music_level.setLooping(true);
+        music_level.play();
 
         // Build background texture array
         for (int i = 0; i < 2; i++) {
@@ -438,5 +446,6 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
         mainStage.dispose();
         uiStage.dispose();
         font.dispose();
+        music_level.dispose();
     }
 }
