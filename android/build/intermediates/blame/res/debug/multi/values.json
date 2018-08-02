@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\ray\\Desktop\\meteorbarrage\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\ray\\Documents\\meteorBarrage\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 101
                 },
                 "from": {
-                    "file": "C:\\Users\\ray\\Desktop\\meteorbarrage\\android\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\ray\\Documents\\meteorBarrage\\android\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 50,
-                        "endOffset": 102
+                        "endOffset": 105
                     }
                 }
             },
@@ -31,14 +31,14 @@
                     "endOffset": 564
                 },
                 "from": {
-                    "file": "C:\\Users\\ray\\Desktop\\meteorbarrage\\android\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\ray\\Documents\\meteorBarrage\\android\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 17,
+                        "startOffset": 19,
                         "endLine": 9,
                         "endColumn": 12,
-                        "endOffset": 475
+                        "endOffset": 484
                     }
                 }
             }

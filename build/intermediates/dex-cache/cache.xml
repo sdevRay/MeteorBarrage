@@ -3,39 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\ray\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jar="C:\Users\ray\Documents\meteorBarrage\core\build\libs\core-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
-        <dex dex="C:\Users\ray\Desktop\meteorbarrage\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_69772d01427bd5ac13a1e6fdaa80e338bcd78cff.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ray\Desktop\meteorbarrage\core\build\libs\core-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d58a6853680cd52334e86250cc7331aa9efb0228">
-        <dex dex="C:\Users\ray\Desktop\meteorbarrage\android\build\intermediates\pre-dexed\debug\core-1.0_d21c159fc4fa252a6a18686bad1acc621cf7fa7e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ray\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
-        <dex dex="C:\Users\ray\Desktop\meteorbarrage\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_7e1ff4c5989e55a56878bc2c11be348f20b0ea73.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ray\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
-        <dex dex="C:\Users\ray\Desktop\meteorbarrage\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_1d202c7ddda44275eda752cc71613b9eb4dcd45d.jar" />
+        sha1="9ebf5d151105e64dd6f1f3577c98dbba1f9cb0bf">
+        <dex dex="C:\Users\ray\Documents\meteorBarrage\android\build\intermediates\pre-dexed\debug\core-1.0_149e2cfbad8808f6a7bb9ba0537dd86fafd9b30d.jar" />
     </item>
 
 </items>

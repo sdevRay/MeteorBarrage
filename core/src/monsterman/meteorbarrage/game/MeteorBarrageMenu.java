@@ -27,6 +27,7 @@ public class MeteorBarrageMenu implements Screen {
     private BaseActor background;
     private BaseActor title;
     private BaseActor spaceship;
+//    private BaseActor badlogic;
 
     private float virtualScreenWidth = 480;
     private float virtualScreenHeight = 640;
@@ -49,6 +50,12 @@ public class MeteorBarrageMenu implements Screen {
         background.setPosition(0, 0);
         background.setSize(virtualScreenWidth, virtualScreenHeight);
         uiStage.addActor(background);
+
+//        badlogic = new BaseActor();
+//        badlogic.setTexture(new Texture("badlogic.jpg"));
+//        badlogic.setPosition(0, virtualScreenHeight - 100);
+//        badlogic.setSize(100, 100);
+//        uiStage.addActor(badlogic);
 
         spaceship = new BaseActor();
         spaceship.setTexture(new Texture("spaceship.png"));

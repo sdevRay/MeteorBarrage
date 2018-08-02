@@ -7,6 +7,7 @@ import com.badlogic.gdx.InputMultiplexer;
 import com.badlogic.gdx.InputProcessor;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.audio.Music;
+import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
@@ -54,6 +55,7 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
     private boolean gameStop;
     private boolean drawMeteor;
     private boolean fireProjectile;
+    private boolean gameOverSound;
 
     private int incrementInterval;
     private int meteorDestroyed;
@@ -69,7 +71,11 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
     private Vector3 lastTouch;
     private Vector3 newTouch;
 
-    private Music music_level;
+//    private Music music_level;
+    private Sound laser;
+    private Sound meteorDestroyedSound;
+    private Music shipChosen;
+    private Music gameOver;
 
     public MeteorBarrageLevel(Game g) {
         this.game = g;
@@ -85,10 +91,20 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
         mainStage = new Stage(viewport);
         uiStage = new Stage(viewport);
 
-        music_level = Gdx.audio.newMusic(Gdx.files.internal("backgroundmusic.mp3"));
-        music_level.setVolume(.20f);
-        music_level.setLooping(true);
-        music_level.play();
+        laser = Gdx.audio.newSound(Gdx.files.internal("laser.mp3"));
+        meteorDestroyedSound = Gdx.audio.newSound(Gdx.files.internal("meteorDestroyed.mp3"));
+
+        shipChosen = Gdx.audio.newMusic(Gdx.files.internal("shipChosen.mp3"));
+        shipChosen.setVolume(0.1f);
+        shipChosen.play();
+
+        gameOver = Gdx.audio.newMusic(Gdx.files.internal("gameOver.mp3"));
+        gameOver.setVolume(0.1f);
+
+//        music_level = Gdx.audio.newMusic(Gdx.files.internal("backgroundMusic.mp3"));
+//        music_level.setVolume(.5f);
+//        music_level.setLooping(true);
+//        music_level.play();
 
         // Build background texture array
         for (int i = 0; i < 2; i++) {
@@ -143,6 +159,7 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
             }
         });
         restart.addAction(Actions.alpha(0));
+
         restart.setTouchable(Touchable.disabled);
         uiStage.addActor(restart);
 
@@ -178,6 +195,7 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
 
         gameStop = false;
         drawMeteor = false;
+        gameOverSound = false;
 
         lastTouch = new Vector3(spaceship.getX() + (spaceship.getWidth() / 2), spaceship.getY() + (spaceship.getHeight() / 2), 0);
 
@@ -236,6 +254,7 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
             projectile.velocityY += 1000;
             projectileManager.add(projectile);
             mainStage.addActor(projectile);
+            laser.play(0.05f);
             fireProjectile = false;
         }
     }
@@ -263,15 +282,15 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
             projectileTimer += dt;
         }
 
-        // Auto fire projectiles every 15th of a second
-        if (projectileTimer >= .15f) {
+        // Auto fire projectiles every 20th of a second
+        if (projectileTimer >= .20f) {
             projectileTimer = 0;
             setFireProjectile(true);
         } else {
             setFireProjectile(false);
         }
 
-        // Display labels and change their colors as meteors impact, stop game on 3rd impact
+         // Display labels and change their colors as meteors impact, stop game on 3rd impact
         timeLabel.setText(" Time: " + (int) timeElapsed);
         destroyLabel.setText(" Destroyed: " + meteorDestroyed);
         if (meteorImpacts == 1) {
@@ -287,6 +306,12 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
             scoreLabel.setText("Score: " + (int) timeElapsed * meteorDestroyed);
             gameStop = true;
         }
+
+        if(gameStop && !gameOverSound){
+            gameOver.play();
+            gameOverSound = true;
+        }
+
 
         // Increment meteor count as they are destroyed
         if (meteorDestroyed >= incrementInterval) {
@@ -321,6 +346,7 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
                     } else if (meteorManager.get(x).getBoundingRectangle().contains(projectileManager.get(i).getBoundingRectangle())) {
 
                         if (!meteorManager.get(x).isDestroyed()) {
+                            meteorDestroyedSound.play(0.25f);
                             projectileManager.get(i).remove();
                             projectileManager.remove(i);
                             meteorManager.get(x).destroyed();
@@ -446,6 +472,11 @@ public class MeteorBarrageLevel implements Screen, InputProcessor {
         mainStage.dispose();
         uiStage.dispose();
         font.dispose();
-        music_level.dispose();
+//        music_level.dispose();
+
+        laser.dispose();
+        meteorDestroyedSound.dispose();
+        shipChosen.dispose();
+        gameOver.dispose();
     }
 }
