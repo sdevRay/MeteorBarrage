@@ -1,8 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4a465a-978c-4b3c-a066-74154485d317" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_android_25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/android/android.iml" afterPath="$PROJECT_DIR$/android/android.iml" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" afterPath="$PROJECT_DIR$/android/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/android/build/generated/source/buildConfig/debug/monsterman/meteorbarrage/game/BuildConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/generated/source/r/debug/monsterman/meteorbarrage/game/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi/values.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/monsterman/meteorbarrage/game/AndroidLauncher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/monsterman/meteorbarrage/game/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/monsterman/meteorbarrage/game/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/monsterman/meteorbarrage/game/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/monsterman/meteorbarrage/game/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/monsterman/meteorbarrage/game/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/monsterman/meteorbarrage/game/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/zip-cache/4aCyGbRrcuz7+SWRbvVmQjMjZDk=" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/zip-cache/4aCyGbRrcuz7+SWRbvVmQjMjZDk=" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/pre-dexed/debug/core-1.0_149e2cfbad8808f6a7bb9ba0537dd86fafd9b30d.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/pre-dexed/debug/core-1.0_149e2cfbad8808f6a7bb9ba0537dd86fafd9b30d.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/pre-dexed/debug/debug_2503a499b233391552daa13eeb047aa7587e8486.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/pre-dexed/debug/debug_2503a499b233391552daa13eeb047aa7587e8486.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/android/build/intermediates/res/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/android/build/outputs/apk/android-debug.apk" afterPath="$PROJECT_DIR$/android/build/outputs/apk/android-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/android/src/monsterman/meteorbarrage/game/AndroidLauncher.java" afterPath="$PROJECT_DIR$/android/src/ray/meteorbarrage/game/AndroidLauncher.java" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/monsterman/meteorbarrage/game/AnimatedActor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/monsterman/meteorbarrage/game/BaseActor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/monsterman/meteorbarrage/game/Meteor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/monsterman/meteorbarrage/game/MeteorBarrage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/monsterman/meteorbarrage/game/MeteorBarrageLevel$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/monsterman/meteorbarrage/game/MeteorBarrageLevel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/monsterman/meteorbarrage/game/MeteorBarrageMenu$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/monsterman/meteorbarrage/game/MeteorBarrageMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" afterPath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/AnimatedActor.java" afterPath="$PROJECT_DIR$/core/src/ray/meteorbarrage/game/AnimatedActor.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/BaseActor.java" afterPath="$PROJECT_DIR$/core/src/ray/meteorbarrage/game/BaseActor.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/Meteor.java" afterPath="$PROJECT_DIR$/core/src/ray/meteorbarrage/game/Meteor.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrage.java" afterPath="$PROJECT_DIR$/core/src/ray/meteorbarrage/game/MeteorBarrage.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageLevel.java" afterPath="$PROJECT_DIR$/core/src/ray/meteorbarrage/game/MeteorBarrageLevel.java" />
+      <change beforePath="$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageMenu.java" afterPath="$PROJECT_DIR$/core/src/ray/meteorbarrage/game/MeteorBarrageMenu.java" />
+      <change beforePath="$PROJECT_DIR$/desktop/build.gradle" afterPath="$PROJECT_DIR$/desktop/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/desktop/build/classes/java/main/monsterman/meteorbarrage/game/desktop/DesktopLauncher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/desktop/src/monsterman/meteorbarrage/game/desktop/DesktopLauncher.java" afterPath="$PROJECT_DIR$/desktop/src/ray/meteorbarrage/game/desktop/DesktopLauncher.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,36 +103,22 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MeteorBarrageLevel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageLevel.java">
+    <leaf>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/android/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8041">
-              <caret line="475" column="0" lean-forward="false" selection-start-line="475" selection-start-column="0" selection-end-line="475" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#14623#14624#0" expanded="true" />
-                <element signature="e#14657#14658#0" expanded="true" />
-                <element signature="e#14720#14721#0" expanded="true" />
-                <element signature="e#14781#14782#0" expanded="true" />
-                <element signature="e#14982#14983#0" expanded="true" />
-                <element signature="e#15010#15011#0" expanded="true" />
-                <element signature="e#15065#15066#0" expanded="true" />
-                <element signature="e#15093#15094#0" expanded="true" />
-                <element signature="e#15154#15155#0" expanded="true" />
-                <element signature="e#15182#15183#0" expanded="true" />
-                <element signature="e#15490#15491#0" expanded="true" />
-                <element signature="e#15517#15518#0" expanded="true" />
-                <element signature="e#15821#15822#0" expanded="true" />
-                <element signature="e#15849#15850#0" expanded="true" />
-                <element signature="e#15906#15907#0" expanded="true" />
-                <element signature="e#15934#15935#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\ray\Documents\meteorbarrage.jks" />
+    <option name="KEY_ALIAS" value="key0" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2597,20 +2662,27 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageMenu.java" />
         <option value="$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageLevel.java" />
+        <option value="$PROJECT_DIR$/android/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/android/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="916" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
@@ -2627,84 +2699,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
               <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="monsterman" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="monsterman" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="meteorbarrage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="monsterman" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="meteorbarrage" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
-              <item name="ic_launcher" type="c431d0b8:AndroidResGroupNode" />
-            </path>
-            <path>
-              <item name="meteorBarrage" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1533266732525" />
     <property name="device.picker.selection" value="ZX1F23VCT9" />
+    <property name="ExportApk.ApkPath" value="C:\Users\ray\Desktop" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2789,7 +2811,7 @@
     </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="monsterman.meteorbarrage.game.desktop.DesktopLauncher" />
+      <option name="MAIN_CLASS_NAME" value="ray.meteorbarrage.game.desktop.DesktopLauncher" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/android/assets" />
@@ -2888,25 +2910,35 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1456" height="916" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3679487" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3344086" sideWeight="0.4968017" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.265043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15526602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19722815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15483871" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2930,54 +2962,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageLevel.java">
+    <entry file="file://$PROJECT_DIR$/core/src/ray/meteorbarrage/game/MeteorBarrageLevel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#14623#14624#0" expanded="true" />
-            <element signature="e#14657#14658#0" expanded="true" />
-            <element signature="e#14720#14721#0" expanded="true" />
-            <element signature="e#14781#14782#0" expanded="true" />
-            <element signature="e#14982#14983#0" expanded="true" />
-            <element signature="e#15010#15011#0" expanded="true" />
-            <element signature="e#15065#15066#0" expanded="true" />
-            <element signature="e#15093#15094#0" expanded="true" />
-            <element signature="e#15154#15155#0" expanded="true" />
-            <element signature="e#15182#15183#0" expanded="true" />
-            <element signature="e#15490#15491#0" expanded="true" />
-            <element signature="e#15517#15518#0" expanded="true" />
-            <element signature="e#15821#15822#0" expanded="true" />
-            <element signature="e#15849#15850#0" expanded="true" />
-            <element signature="e#15906#15907#0" expanded="true" />
-            <element signature="e#15934#15935#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#14869#14870#0" expanded="false" />
+            <element signature="e#14903#14904#0" expanded="false" />
+            <element signature="e#14966#14967#0" expanded="false" />
+            <element signature="e#15027#15028#0" expanded="false" />
+            <element signature="e#15228#15229#0" expanded="false" />
+            <element signature="e#15256#15257#0" expanded="false" />
+            <element signature="e#15311#15312#0" expanded="false" />
+            <element signature="e#15339#15340#0" expanded="false" />
+            <element signature="e#15400#15401#0" expanded="false" />
+            <element signature="e#15428#15429#0" expanded="false" />
+            <element signature="e#15736#15737#0" expanded="false" />
+            <element signature="e#15763#15764#0" expanded="false" />
+            <element signature="e#16067#16068#0" expanded="false" />
+            <element signature="e#16095#16096#0" expanded="false" />
+            <element signature="e#16152#16153#0" expanded="false" />
+            <element signature="e#16180#16181#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageLevel.java">
+    <entry file="file://$PROJECT_DIR$/core/src/ray/meteorbarrage/game/MeteorBarrageLevel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#14623#14624#0" expanded="true" />
-            <element signature="e#14657#14658#0" expanded="true" />
-            <element signature="e#14720#14721#0" expanded="true" />
-            <element signature="e#14781#14782#0" expanded="true" />
-            <element signature="e#14982#14983#0" expanded="true" />
-            <element signature="e#15010#15011#0" expanded="true" />
-            <element signature="e#15065#15066#0" expanded="true" />
-            <element signature="e#15093#15094#0" expanded="true" />
-            <element signature="e#15154#15155#0" expanded="true" />
-            <element signature="e#15182#15183#0" expanded="true" />
-            <element signature="e#15490#15491#0" expanded="true" />
-            <element signature="e#15517#15518#0" expanded="true" />
-            <element signature="e#15821#15822#0" expanded="true" />
-            <element signature="e#15849#15850#0" expanded="true" />
-            <element signature="e#15906#15907#0" expanded="true" />
-            <element signature="e#15934#15935#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#14869#14870#0" expanded="false" />
+            <element signature="e#14903#14904#0" expanded="false" />
+            <element signature="e#14966#14967#0" expanded="false" />
+            <element signature="e#15027#15028#0" expanded="false" />
+            <element signature="e#15228#15229#0" expanded="false" />
+            <element signature="e#15256#15257#0" expanded="false" />
+            <element signature="e#15311#15312#0" expanded="false" />
+            <element signature="e#15339#15340#0" expanded="false" />
+            <element signature="e#15400#15401#0" expanded="false" />
+            <element signature="e#15428#15429#0" expanded="false" />
+            <element signature="e#15736#15737#0" expanded="false" />
+            <element signature="e#15763#15764#0" expanded="false" />
+            <element signature="e#16067#16068#0" expanded="false" />
+            <element signature="e#16095#16096#0" expanded="false" />
+            <element signature="e#16152#16153#0" expanded="false" />
+            <element signature="e#16180#16181#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2989,7 +3021,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/Meteor.java">
+    <entry file="file://$PROJECT_DIR$/core/src/ray/meteorbarrage/game/Meteor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -2997,9 +3029,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageMenu.java">
+    <entry file="file://$PROJECT_DIR$/core/src/ray/meteorbarrage/game/MeteorBarrageLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1272">
+        <state relative-caret-position="181">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#14869#14870#0" expanded="false" />
+            <element signature="e#14903#14904#0" expanded="false" />
+            <element signature="e#14966#14967#0" expanded="false" />
+            <element signature="e#15027#15028#0" expanded="false" />
+            <element signature="e#15228#15229#0" expanded="false" />
+            <element signature="e#15256#15257#0" expanded="false" />
+            <element signature="e#15311#15312#0" expanded="false" />
+            <element signature="e#15339#15340#0" expanded="false" />
+            <element signature="e#15400#15401#0" expanded="false" />
+            <element signature="e#15428#15429#0" expanded="false" />
+            <element signature="e#15736#15737#0" expanded="false" />
+            <element signature="e#15763#15764#0" expanded="false" />
+            <element signature="e#16067#16068#0" expanded="false" />
+            <element signature="e#16095#16096#0" expanded="false" />
+            <element signature="e#16152#16153#0" expanded="false" />
+            <element signature="e#16180#16181#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/ray/meteorbarrage/game/AnimatedActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/ray/meteorbarrage/game/BaseActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/ray/meteorbarrage/game/MeteorBarrageMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
           <caret line="50" column="68" lean-forward="false" selection-start-line="50" selection-start-column="68" selection-end-line="50" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="false" />
@@ -3007,29 +3085,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/monsterman/meteorbarrage/game/MeteorBarrageLevel.java">
+    <entry file="jar://$PROJECT_DIR$/desktop/build/libs/desktop-1.0.jar!/monsterman/meteorbarrage/game/desktop/DesktopLauncher.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8041">
-          <caret line="475" column="0" lean-forward="false" selection-start-line="475" selection-start-column="0" selection-end-line="475" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/ray/meteorbarrage/game/AndroidLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desktop/src/ray/meteorbarrage/game/desktop/DesktopLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#14623#14624#0" expanded="true" />
-            <element signature="e#14657#14658#0" expanded="true" />
-            <element signature="e#14720#14721#0" expanded="true" />
-            <element signature="e#14781#14782#0" expanded="true" />
-            <element signature="e#14982#14983#0" expanded="true" />
-            <element signature="e#15010#15011#0" expanded="true" />
-            <element signature="e#15065#15066#0" expanded="true" />
-            <element signature="e#15093#15094#0" expanded="true" />
-            <element signature="e#15154#15155#0" expanded="true" />
-            <element signature="e#15182#15183#0" expanded="true" />
-            <element signature="e#15490#15491#0" expanded="true" />
-            <element signature="e#15517#15518#0" expanded="true" />
-            <element signature="e#15821#15822#0" expanded="true" />
-            <element signature="e#15849#15850#0" expanded="true" />
-            <element signature="e#15906#15907#0" expanded="true" />
-            <element signature="e#15934#15935#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desktop/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-466">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
